@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\bin\Debug\Kinect_Console.exe.config
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\bin\Debug\Kinect_Console.exe
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\bin\Debug\Kinect_Console.pdb
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\bin\Debug\Microsoft.Kinect.dll
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\bin\Debug\Microsoft.Kinect.xml
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\obj\Debug\Kinect_Console.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\obj\Debug\Kinect_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\obj\Debug\Kinect_Console.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\obj\Debug\Kinect_Console.csproj.CopyComplete
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\obj\Debug\Kinect_Console.exe
+C:\Users\PC\source\repos\Kinect_Console\Kinect_Console\obj\Debug\Kinect_Console.pdb
